@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "236544070339",
+    "firebase_url": "https://warshat-e354a.firebaseio.com",
+    "project_id": "warshat-e354a",
+    "storage_bucket": "warshat-e354a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236544070339:android:c023278609fb5ebb568876",
+        "android_client_info": {
+          "package_name": "com.art4muslim.warshat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236544070339-i4o2dld3r1irlf0kje6edc1p5g8df01m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNDe5o03huCwvJfiZKeg42MrxXJxf5q6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236544070339-i4o2dld3r1irlf0kje6edc1p5g8df01m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
